@@ -1,0 +1,23 @@
+{
+  "name": "riotmdl",
+  "version": "0.0.0",
+  "authors": [
+    "Shunsuke Watanabe <craftgear@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.5",
+    "riot": "riotjs#~2.2.4"
+  }
+}
